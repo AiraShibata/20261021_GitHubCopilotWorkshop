@@ -1,10 +1,5 @@
 [戻る](../README.md)
 
-## 目次
-[VS Code のインストール方法](#vs-code-のインストール方法)  
-[VS Code初期設定](#vs-code初期設定)
-
-
 # VS Code のインストール方法
 
 この資料では、Windows で Visual Studio Code（VS Code）をインストールする手順を説明します。
@@ -62,25 +57,8 @@ VS Code を開き、メニューの「ファイル」→「新しいファイル
 
 問題なく編集できればインストールは完了です。
 
-# VS Code初期設定
-## 日本語に変更
-
-- 左下の歯車アイコンから「Extensions」→「Japanese Language Pack」で検索
-- 拡張機能をインストールし、インストールが完了したら再起動することで日本語に変更されます。
-
-## GitHub Copilot利用準備（GitHubログイン）
-
-1. VSCodeを起動します。
-2. 右下のCopilotアイコンをクリックし、「use AI features」ボタンをクリックします。
-3. 「continue with github」ボタンをクリックします。
-4. ブラウザでGitHubの認証画面が開きます。（「Authorize Visual Studio Code」と表示されています。）サインインに利用するアカウントがGitHub Copilotを使用開始済みであることを確認し、「Continue」ボタンをクリックします。
-5. ブラウザ上で「このサイトはVisual Studio Codeを開こうとしています」とポップアップが表示されます。「開く」ボタンをクリックします。
-6. GitHub Copilot の認証が完了です。
-7. （時間があれば）「拡張機能」-「GitHub Copilot Chat」-「設定」から言語設定（Locale Override）を日本語（ja）に設定することで、GitHub Copilotが日本語で応答しやすくなります。
-
 ## 参考
 
 - VS Code 公式サイト: https://code.visualstudio.com/
-- GitHub Copilot の準備: https://github.com/features/copilot
 
 [戻る](../README.md)
